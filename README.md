@@ -1,3 +1,3 @@
 # POP-EresElMejor
 
-ToDo create readme file
+App for track challenges. Wrote in React Native.
